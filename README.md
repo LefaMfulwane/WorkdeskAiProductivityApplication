@@ -1,7 +1,7 @@
 
   # Improve existing application
 
-  This is a code bundle for Improve existing application. The original project is available at https://www.figma.com/design/pe6O648NWA3zI0aJfjf0KO/Improve-existing-application.
+  This is a code bundle for Improving the existing application that i created with  lovable dev
 
   ## Running the code
 
